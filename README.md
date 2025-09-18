@@ -20,6 +20,7 @@ Repositorio de material de estudio para la materia **Matemática IV** de la Univ
 
 ## Links a Prácticas Resueltas
 
+- [Práctica Nro. 1](https://github.com/JoaquinManuelGonzalez/Matematica-4/blob/main/practicas/Resoluciones/Trabajo%20Practico%20Nro%201.pdf)
 
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG1xbzB6bWRubTQ1bG9kaDR2MGNxbTA0ZDgxc2hndzNha2htY3k4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zPbnEgxsPJOJSD3qfr/giphy.gif" alt="Como me siento con esta materia" width="400" height="400" loop>
